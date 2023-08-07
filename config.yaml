@@ -1,0 +1,13 @@
+admin:
+- 6056530589
+bot:
+  api_hash: 775019fd52572547bb2acd8c5eda1583
+  api_id: 20238240
+  bot_token: 6311069114:AAHi91YoxVR6BcIla0OTJz3znpBi_EYksRs
+  buildtoken: c7004ded9db897e538405c67e50e0ef0c3dbad717e67a92d02f6ebcfd1022a5ad1d2c4419541f538ff623051759ec000d2f426e03f9709a6608570c5b9141a6b
+  proxy: 192.168.3.158:7890
+clash:
+  path: .\bin\fulltclash-windows-amd64.exe
+  workpath: ./clash
+user:
+- 6056530589
